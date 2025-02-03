@@ -131,6 +131,7 @@ export function ComponentConfigSchema() {
 			Sidebar: z.string().default('@astrojs/starlight/components/Sidebar.astro'),
 			SidebarPersister: z.string().default('@astrojs/starlight/components/SidebarPersister.astro'),
 			SidebarRestorePoint: z.string().default('@astrojs/starlight/components/SidebarRestorePoint.astro'),
+			TableOfContentsList: z.string().default('@astrojs/starlight/components/TableOfContents/TableOfContentsList.astro'),
 			/**
 			 * Component rendered at the bottom of the mobile drop-down menu.
 			 * The default implementation renders `<ThemeSelect />` and `<LanguageSelect />`.

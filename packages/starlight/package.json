@@ -121,6 +121,10 @@
       "types": "./components/TableOfContents.astro.tsx",
       "import": "./components/TableOfContents.astro"
     },
+    "./components/TableOfContentsList.astro": {
+      "types": "./components/TableOfContents/TableOfContentsList.astro.tsx",
+      "import": "./components/TableOfContents/TableOfContentsList.astro"
+    },
     "./components/Head.astro": {
       "types": "./components/Head.astro.tsx",
       "import": "./components/Head.astro"

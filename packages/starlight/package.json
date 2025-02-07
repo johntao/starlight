@@ -1,5 +1,5 @@
 {
-  "name": "@johntao/starlight-forked",
+  "name": "@johntao/starlight",
   "version": "0.31.99",
   "description": "Build beautiful, high-performance documentation websites with Astro",
   "scripts": {

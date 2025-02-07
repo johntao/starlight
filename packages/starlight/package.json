@@ -1,6 +1,6 @@
 {
   "name": "@johntao/starlight-forked",
-  "version": "0.31.100",
+  "version": "0.31.101",
   "description": "Build beautiful, high-performance documentation websites with Astro",
   "scripts": {
     "test": "vitest",
@@ -216,8 +216,5 @@
     "unified": "^11.0.5",
     "unist-util-visit": "^5.0.0",
     "vfile": "^6.0.2"
-  },
-  "publishConfig": {
-    "provenance": true
   }
 }

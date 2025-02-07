@@ -1,2 +1,2 @@
 packages:
-  - 'packages/starlight/*'
+  - 'packages/starlight'

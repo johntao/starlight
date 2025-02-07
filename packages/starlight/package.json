@@ -219,6 +219,6 @@
   },
   "publishConfig": {
     "provenance": true,
-    "registry": "https://npm.pkg.github.com"
+    "@johntao:registry": "https://npm.pkg.github.com"
   }
 }

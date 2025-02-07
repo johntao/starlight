@@ -218,6 +218,7 @@
     "vfile": "^6.0.2"
   },
   "publishConfig": {
-    "provenance": true
+    "provenance": true,
+    "registry": "https://npm.pkg.github.com"
   }
 }

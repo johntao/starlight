@@ -1,6 +1,6 @@
 {
-  "name": "@johntao/starlight",
-  "version": "0.31.99",
+  "name": "@johntao/starlight-forked",
+  "version": "0.0.99",
   "description": "Build beautiful, high-performance documentation websites with Astro",
   "scripts": {
     "test": "vitest",
@@ -218,7 +218,6 @@
     "vfile": "^6.0.2"
   },
   "publishConfig": {
-    "provenance": true,
-    "@johntao:registry": "https://npm.pkg.github.com"
+    "provenance": true
   }
 }

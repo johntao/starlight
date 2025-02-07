@@ -1,7 +1,7 @@
 {
   "name": "starlight-root",
   "private": true,
-  "version": "1.0.99",
+  "version": "1.0.0",
   "description": "",
   "scripts": {
     "build:examples": "pnpm --no-bail --workspace-concurrency 1 --filter '@example/*' build",
